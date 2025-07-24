@@ -1,4 +1,4 @@
-import { Item } from "../types/item";
+import type  { Item } from "../types/item";
 
 let items : Item[] = [
     {id: 1, title: 'First Task', description: 'Do the thing'},
